@@ -1,0 +1,3 @@
+https://videoanz.netlify.com/* https://videoanz.com/:splat 301!
+https://www.videoanz.com/* https://videoanz.com/:splat 301!
+/*    /index.html   200
